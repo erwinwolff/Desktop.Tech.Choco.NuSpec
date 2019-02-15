@@ -11,6 +11,7 @@
     <copyright>2019 Micro Formatica</copyright>
     <tags>s3 file-transfer scp ssh ftp copy paste hadoop2 hadoop3 onedrive explorer trail google-drive webhdfs azure-blob</tags>
     <summary>30 Day trail of Desktop.Tech</summary>
+    <packageSourceUrl>https://github.com/erwinwolff/Desktop.Tech.Choco.NuSpec</packageSourceUrl>
     <description>30 Day trail of Desktop.Tech. Desktop.Tech is the Swiss army knife of desktop applications! Upload and download from FTP, SSH/SCP and Amazon S3 servers. In the future more protocols will be added! You can explore your harddrive with the internal Windows Explorer replacement. Search your harddrive with an lightning fast index-based system. Desktop.Tech is available in 4 languages (and growing!). Perform multiple tasks while never leaving the same application!
  Desktop.Tech can act as a:
 FTP(S) Client, 
